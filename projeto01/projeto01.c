@@ -1,6 +1,5 @@
 /*
-    10438361 - Gian Lucca 
-    10438936 - Lucas Rocato 
+Calculadora de polinômios
 */
 
 #include <stdio.h>
